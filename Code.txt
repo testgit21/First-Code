@@ -11,6 +11,7 @@ javascript
 R
 Android
 Machine Learning is a new trending technology now a days.
+Artificial Intelligence is also a trending technology in future.
 C
 The unicorn
 pony
