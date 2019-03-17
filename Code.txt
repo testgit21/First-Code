@@ -8,6 +8,7 @@ xml
 javascript
 R
 Android
+Machine Learning is a new trending technology now a days.
 C
 The unicorn
 pony
